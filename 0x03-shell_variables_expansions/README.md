@@ -14,3 +14,4 @@
 13,script that prints a number with two decimal places, fol
 
 lowed by a new line
+script that converts a number from base 10 to base 16
